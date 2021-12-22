@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Pure TheraPro RX</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Pure TheraPro RX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capsule</title>
+      <link>/tags/capsule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/capsule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Sale</title>
+      <link>/tags/on-sale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/on-sale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powder</title>
+      <link>/tags/powder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/powder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soy Free</title>
+      <link>/tags/soy-free/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/soy-free/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tablet</title>
+      <link>/tags/tablet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tablet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vegan</title>
+      <link>/tags/vegan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vegan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
